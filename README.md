@@ -1,3 +1,6 @@
+![image](https://github.com/alnazareth/React-search-news-api-template/assets/36893691/3f7115c7-33fe-451e-b423-574352ccbce7)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
